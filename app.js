@@ -1,0 +1,1 @@
+// TweenMax.to('.menu-logo', 2, {left: 600});
