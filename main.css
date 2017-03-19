@@ -1024,9 +1024,19 @@ h3,.title-3 {
 }
 
 .heading-text .title-2 {
-    font-size: .9em;
+    font-size: 1em;
     color: #9c9c9c;
     text-transform: uppercase;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.heading-text .title-3 {
+    font-size: 1em;
+    color: #9c9c9c;
+    /*text-transform: uppercase;*/
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
